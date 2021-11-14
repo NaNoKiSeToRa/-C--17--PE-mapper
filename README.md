@@ -23,7 +23,3 @@ PE mapper in c++17
 + Loader entry
 + C++ exceptions
 
-# Thanks
-+ DarthTon
-+ Daax
-+ JustMagic
